@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mawusikpodo
 - 👀 I’m interested in fullstack web development
-- 🌱 I’m currently learning kotlin 
+- 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on projects in javascript frameworks(react, angular or express)
 - 📫 You can reach me on mawusikpodo@yahoo.com
 
