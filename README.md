@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mawusikpodo
-- 👀 I’m interested in fullstack web development
+- 👀 I’m a full Stack Developer with focus on Frontend (Web and Mobile) using modern technologies.
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on projects in javascript frameworks(react, angular or express)
 - 📫 You can reach me on mawusikpodo@yahoo.com
